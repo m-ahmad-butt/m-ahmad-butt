@@ -1,5 +1,5 @@
 # Muhammad Ahmad Butt
-I am a developer with interests in **Web Development**, **AR/VR**, and **AI/ML**.  
+I am a software engineer student at FAST NUCES with interests in **Web Development**, **AR/VR**, and **AI/ML**.  
 I enjoy building projects across different domains and experimenting with both low-level and high-level technologies.
 
 ## Contact & Links
