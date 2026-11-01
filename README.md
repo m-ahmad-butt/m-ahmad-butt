@@ -5,7 +5,7 @@ I enjoy building projects across different domains and experimenting with both l
 ## Contact & Links
 - **Email:** muhammad.ahmad.github@gmail.com  
 - **Portfolio:** [m-ahmad-butt.me](https://www.m-ahmad-butt.me)
+- **GitLab:** [m-ahmad-butt](https://gitlab.com/m-ahmad-butt)
 - **LinkedIn:** [m-ahmad-butt](https://www.linkedin.com/in/m-ahmad-butt)
 - **Hugging Face:** [m-ahmad-butt](https://huggingface.co/m-ahmad-butt)  
-- **GitLab:** [m-ahmad-butt](https://gitlab.com/m-ahmad-butt)
 - **Fun Fact:** Can do any project.
